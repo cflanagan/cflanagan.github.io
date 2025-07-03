@@ -2163,7 +2163,7 @@ if(userSelection.includes(correctSelection)) {
 	pathEl.setAttribute("fill", "#cc3333");
 	// Show user which answer was correct
 	allDistText.forEach((item, index) => {
-		if(item.includes(correctSelection) && index != 0){
+		if(item.includes(correctSelection) && index != 3){
 			// Highlight correct answer
 			dO = "distText_" + (index + 1);
 			distShp = document.querySelector('[data-acc-text="'+dO+'"]');
@@ -2237,7 +2237,7 @@ if(userSelection.includes(correctSelection)) {
 	pathEl.setAttribute("fill", "#cc3333");
 	// Show user which answer was correct
 	allDistText.forEach((item, index) => {
-		if(item.includes(correctSelection) && index != 0){
+		if(item.includes(correctSelection) && index != 2){
 			// Highlight correct answer
 			dO = "distText_" + (index + 1);
 			distShp = document.querySelector('[data-acc-text="'+dO+'"]');
@@ -2310,7 +2310,7 @@ if(userSelection.includes(correctSelection)) {
 	pathEl.setAttribute("fill", "#cc3333");
 	// Show user which answer was correct
 	allDistText.forEach((item, index) => {
-		if(item.includes(correctSelection) && index != 0){
+		if(item.includes(correctSelection) && index != 1){
 			// Highlight correct answer
 			dO = "distText_" + (index + 1);
 			distShp = document.querySelector('[data-acc-text="'+dO+'"]');
