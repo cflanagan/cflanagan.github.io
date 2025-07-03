@@ -1,0 +1,45 @@
+answerTextAry["c1r1"] = "This classical composer, known for his symphonies and operas, went deaf later in life but continued to compose.";
+answerTextAry["c1r2"] = "This &#8220;King of Pop&#8221; released the iconic album &#8220;Thriller&#8221; in 1982, which remains the best-selling album of all time.";
+answerTextAry["c1r3"] = "This genre of music, originating in the Black American community, combines jazz, blues, and gospel influences and became popular in the 1940s.";
+answerTextAry["c1r4"] = "Known for her powerful voice, this pop diva is often called &#8220;The Voice&#8221; and sang hits like &#8220;I Will Always Love You.&#8221;";
+answerTextAry["c1r5"] = "This genre of music, with roots in the 1920s, is characterized by fast tempos, improvisation, and a swing rhythm.";
+// 70's TV Shows
+answerTextAry["c2r1"] = "This long-running animated series debuted in 1972 and followed the adventures of a prehistoric family, with the dad working as a brontosaurus crane operator.";
+answerTextAry["c2r2"] = "This 1970s variety show, hosted by a famous comedian, featured musical performances and comedy sketches, making it a staple of prime-time entertainment.";
+answerTextAry["c2r3"] = "This medical themed television show was set during the Korean War and blended dark humor and drama.";
+answerTextAry["c2r4"] = "This beloved animated series, featuring a futuristic family living in a space-age world, became a cultural touchstone for the decade.";
+answerTextAry["c2r5"] = "A groundbreaking television sitcom that premiered in 1970, notable for featuring a single woman in its lead role. The main character is a thirty-something television producer navigating life and career after ending a long-term relationship. ";
+// USA Civil War
+answerTextAry["c3r1"] = "This Union general, who later became the 18th President of the United States, played a pivotal role in securing Union victories and accepted Robert E. Lee&#8217;s surrender at Appomattox.";
+answerTextAry["c3r2"] = "This battle, fought in 1863, is considered a turning point in the Civil War, with the Union army securing a significant victory over the Confederacy.";
+answerTextAry["c3r3"] = "This President issued the Emancipation Proclamation in 1863, which declared that all slaves in Confederate-held territory were to be set free.";
+answerTextAry["c3r4"] = "This battle, fought in 1861, was the first major conflict of the Civil War and resulted in a Confederate victory, setting the stage for further conflict.";
+answerTextAry["c3r5"] = "This state, which was a border state during the Civil War, had a divided loyalty and witnessed violent clashes between pro-Union and pro-Confederate forces.";
+// 80's Wall Street
+answerTextAry["c4r1"] = "This &#8220;corporate raider&#8221; and financier became infamous in the 1980s for his hostile takeovers, particularly his involvement with the company RJR Nabisco.";
+answerTextAry["c4r2"] = "This investment firm, which had been around since the 19th century, famously collapsed in 1987 after a series of bad investments and regulatory issues, serving as a harbinger of trouble in the financial world.";
+answerTextAry["c4r3"] = "This term, which gained prominence in the 1980s, refers to the practice of acquiring a company by purchasing a large amount of its stock using borrowed money, often leading to massive debt.";
+answerTextAry["c4r4"] = "In 1982, the Securities and Exchange Commission (SEC) created this rule that required companies to disclose their financial information in a standardized format, contributing to a new era of transparency.";
+answerTextAry["c4r5"] = "This film, released in 1987 with a character named Gordon Gekko, a ruthless corporate raider, who famously said, &#8220;Greed is good.&#8221;";
+// Past decades Tech
+answerTextAry["c5r1"] = "This technology is aimed at providing global internet coverage through a constellation of satellites in low Earth orbit, aiming to bring high-speed internet to rural and underserved areas.";
+answerTextAry["c5r2"] = "This company introduced its AR glasses in 2020, merging augmented reality with everyday experiences and opening up new possibilities for entertainment, shopping, and communication.";
+answerTextAry["c5r3"] = "This form of wireless technology, introduced in 2019, promises faster speeds, lower latency, and more connected devices, revolutionizing industries like telecommunications, transportation, and healthcare.";
+answerTextAry["c5r4"] = "This new chip architecture, introduced by Apple in 2020 with the release of the M1 processor, marked the company&#8217;s transition away from Intel chips in favor of its own custom silicon for Mac computers.";
+answerTextAry["c5r5"] = "This cryptocurrency, introduced in 2009 by an anonymous individual or group under the pseudonym Satoshi Nakamoto, became a global phenomenon over the past decade, reaching all-time highs and making headlines.";
+// 2k Love Songs
+answerTextAry["c6r1"] = "This American pop singer&#8217;s 2002 hit &#8220;Complicated” addressed the complexities of love and relationships in a way that resonated with a wide audience, launching her career.";
+answerTextAry["c6r2"] = "This soulful American artist released &#8220;All of Me&#8221; in 2013, dedicating it to his wife, Chrissy Teigen, and making it one of the decade’s biggest love songs.";
+answerTextAry["c6r3"] = "This American artist&#8217;s 2004 hit &#8220;If I Ain't Got You&#8221; blends R&B and soul, and became one of her signature love songs, earning multiple Grammy Awards.";
+answerTextAry["c6r4"] = "This pop star&#8217;s 2008 song &#8220;Love Story,&#8221; inspired by Shakespeare's &#8220;Romeo and Juliet,&#8221; was a massive crossover hit, blending country and pop elements.";
+answerTextAry["c6r5"] = "Known for his smooth voice, this &#8220;King of R&B&#8221; released &#8220;Climax&#8221; in 2012, a song that blended elements of love and heartache with an electronic twist.";
+
+
+
+Euuuu, that's incorrect. The value of the answer you selected has been deducted from your score. The correct answer has been highlighted on the screen. Click the Continue button to proceed.
+
+
+
+
+
+
