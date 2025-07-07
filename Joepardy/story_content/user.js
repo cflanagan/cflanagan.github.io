@@ -34,273 +34,215 @@ window.Script2 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c6r5Btn");
-player.SetVar("selectionValue","row5val");
-
-showAnswers = true;
 }
 
 window.Script3 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c6r4Btn");
-player.SetVar("selectionValue","row4val");
-
-showAnswers = true;
 }
 
 window.Script4 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c6r3Btn");
-player.SetVar("selectionValue","row3val");
-
-showAnswers = true;
 }
 
 window.Script5 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c6r2Btn");
-player.SetVar("selectionValue","row2val");
-
-showAnswers = true;
 }
 
 window.Script6 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c6r1Btn");
-player.SetVar("selectionValue","row1val");
-
-showAnswers = true;
 }
 
 window.Script7 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c5r5Btn");
-player.SetVar("selectionValue","row5val");
-
-showAnswers = true;
 }
 
 window.Script8 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c5r4Btn");
-player.SetVar("selectionValue","row4val");
-
-showAnswers = true;
 }
 
 window.Script9 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c5r3Btn");
-player.SetVar("selectionValue","row3val");
-
-showAnswers = true;
 }
 
 window.Script10 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c5r2Btn");
-player.SetVar("selectionValue","row2val");
-
-showAnswers = true;
 }
 
 window.Script11 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c5r1Btn");
-player.SetVar("selectionValue","row1val");
-
-showAnswers = true;
 }
 
 window.Script12 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c4r5Btn");
-player.SetVar("selectionValue","row5val");
-
-showAnswers = true;
 }
 
 window.Script13 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c4r4Btn");
-player.SetVar("selectionValue","row4val");
-
-showAnswers = true;
 }
 
 window.Script14 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c4r3Btn");
-player.SetVar("selectionValue","row3val");
-
-showAnswers = true;
 }
 
 window.Script15 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c4r2Btn");
-player.SetVar("selectionValue","row2val");
-
-showAnswers = true;
 }
 
 window.Script16 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c4r1Btn");
-player.SetVar("selectionValue","row1val");
-
-showAnswers = true;
 }
 
 window.Script17 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c3r5Btn");
-player.SetVar("selectionValue","row5val");
-
-showAnswers = true;
 }
 
 window.Script18 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c3r4Btn");
-player.SetVar("selectionValue","row4val");
-
-showAnswers = true;
 }
 
 window.Script19 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c3r3Btn");
-player.SetVar("selectionValue","row3val");
-
-showAnswers = true;
 }
 
 window.Script20 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c3r2Btn");
-player.SetVar("selectionValue","row2val");
-
-showAnswers = true;
 }
 
 window.Script21 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c3r1Btn");
-player.SetVar("selectionValue","row1val");
-
-showAnswers = true;
 }
 
 window.Script22 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c2r5Btn");
-player.SetVar("selectionValue","row5val");
-
-showAnswers = true;
 }
 
 window.Script23 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c2r4Btn");
-player.SetVar("selectionValue","row4val");
-
-showAnswers = true;
 }
 
 window.Script24 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c2r3Btn");
-player.SetVar("selectionValue","row3val");
-
-showAnswers = true;
 }
 
 window.Script25 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c2r2Btn");
-player.SetVar("selectionValue","row2val");
-
-showAnswers = true;
 }
 
 window.Script26 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c2r1Btn");
-player.SetVar("selectionValue","row1val");
-
-showAnswers = true;
 }
 
 window.Script27 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c1r5Btn");
-player.SetVar("selectionValue","row5val");
-
-showAnswers = true;
 }
 
 window.Script28 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c1r4Btn");
-player.SetVar("selectionValue","row4val");
-
-showAnswers = true;
 }
 
 window.Script29 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c1r3Btn");
-player.SetVar("selectionValue","row3val");
-
-showAnswers = true;
 }
 
 window.Script30 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c1r2Btn");
-player.SetVar("selectionValue","row2val");
-
-showAnswers = true;
 }
 
 window.Script31 = function()
 {
   var player = GetPlayer();
 player.SetVar("answerSelected","c1r1Btn");
-player.SetVar("selectionValue","row1val");
-
-showAnswers = true;
 }
 
 window.Script32 = function()
+{
+  const beginBtn = object('6HyKvxTcAWS');
+
+let timeline = gsap.timeline({pause:true});
+
+timeline.to(beginBtn, {
+	duration: 1,
+	y: 800
+});
+
+timeline.play();
+}
+
+window.Script33 = function()
+{
+  const exitBtn = object('60MJcO1qLeF');
+const restartBtn = object('6mce0EtmPJE');
+
+//Move the Exit and Restart buttons on to the slide
+let timeline = gsap.timeline({pause:true});
+timeline.to(exitBtn, {
+	duration: 1,
+	x: 1201
+});
+timeline.to(restartBtn, {
+	duration: 1,
+	x: 1201
+});
+timeline.play();
+}
+
+window.Script34 = function()
 {
   
 // Answer screen to center and fade in the answerCurtain
@@ -421,7 +363,7 @@ answerTextAry["c5r5"] = "This cryptocurrency, introduced in 2009 by an anonymous
 answerTextAry["c6r1"] = "This American pop singer’s 2002 hit “Complicated” addressed the complexities of love and relationships in a way that resonated with a wide audience, launching her career.";
 answerTextAry["c6r2"] = "This soulful American artist released “All of Me” in 2013, dedicating it to his wife, Chrissy Teigen, and making it one of the decade’s biggest love songs.";
 answerTextAry["c6r3"] = "This American artist’s 2004 hit “If I Ain't Got You” blends R&B and soul, and became one of her signature love songs, earning multiple Grammy Awards.";
-answerTextAry["c6r4"] = "This pop star’s 2008 song “Love Story,” inspired by Shakespeare’s “Romeo and Juliet,”; was a massive crossover hit, blending country and pop elements.";
+answerTextAry["c6r4"] = "This pop star’s 2008 song “Love Story,” inspired by Shakespeare’s “Romeo and Juliet,” was a massive crossover hit, blending country and pop elements.";
 answerTextAry["c6r5"] = "Known for his smooth voice, this “King of R&B” released “Climax” in 2012, a song that blended elements of love and heartache with an electronic twist.";
 // Store the answer text
 player.SetVar("answerText",answerTextAry[column + row]);
@@ -515,114 +457,6 @@ function playAudio() {
 
 }
 
-window.Script33 = function()
-{
-  // Get object to animate
-const ansTextDisplay = object('5W2q5hbBc7b');
-const distractorBkgd = object('5VEwqCjqRDX');
-const distractor_1 = object('6T8pgVklcVw');
-const distractor_2 = object('6rkHq7peQmr');
-const distractor_3 = object('6A016E1ta24');
-const distractor_4 = object('6kCamB7PADE');
-const distBtn1 = object('5XB5UwVvzvC');
-const distBtn2 = object('6lBAjLf6rvg');
-const distBtn3 = object('5gsJ5Hbqvaa');
-const distBtn4 = object('6NeNI8GFVZn');
-
-// Put all distractor objects into an array
-let distractors = [];
-distractors[0] = distractorBkgd;
-distractors[1] = distractor_1;
-distractors[2] = distractor_2;
-distractors[3] = distractor_3;
-distractors[4] = distractor_4;
-distractors[5] = distBtn1;
-distractors[6] = distBtn2;
-distractors[7] = distBtn3;
-distractors[8] = distBtn4;
-
-// Move objects together to the center
-let timeline = gsap.timeline({pause:true});
-
-// Move answer display
-timeline.to(ansTextDisplay, {
-	duration: 0.25,
-	x: 330
-});
-
-// Bring in distractors from off-stage
-distractors.forEach((obj, index) =>{
-	if (index == 0) {
-		timeline.to(obj, {
-			duration: 0,
-			x: 680
-		});
-	} else {
-		timeline.to(obj, {
-			duration: 0,
-			x: 700
-		});
-	}
-});
-
-timeline.play();
-
-
-}
-
-window.Script34 = function()
-{
-  // Get object to animate
-const ansTextDisplay = object('5W2q5hbBc7b');
-const distractorBkgd = object('5VEwqCjqRDX');
-const distractor_1 = object('6T8pgVklcVw');
-const distractor_2 = object('6rkHq7peQmr');
-const distractor_3 = object('6A016E1ta24');
-const distractor_4 = object('6kCamB7PADE');
-const distBtn1 = object('5XB5UwVvzvC');
-const distBtn2 = object('6lBAjLf6rvg');
-const distBtn3 = object('5gsJ5Hbqvaa');
-const distBtn4 = object('6NeNI8GFVZn');
-
-// Put all distractor objects into an array
-let distractors = [];
-distractors[0] = distractorBkgd;
-distractors[1] = distractor_1;
-distractors[2] = distractor_2;
-distractors[3] = distractor_3;
-distractors[4] = distractor_4;
-distractors[5] = distBtn1;
-distractors[6] = distBtn2;
-distractors[7] = distBtn3;
-distractors[8] = distBtn4;
-
-// Move objects together to the center
-let timeline = gsap.timeline({pause:true});
-
-// Move answer display
-timeline.to(ansTextDisplay, {
-	duration: 0.25,
-	x: 330
-});
-
-// Bring in distractors from off-stage
-distractors.forEach((obj, index) =>{
-	if (index == 0) {
-		timeline.to(obj, {
-			duration: 0,
-			x: 680
-		});
-	} else {
-		timeline.to(obj, {
-			duration: 0,
-			x: 700
-		});
-	}
-});
-
-timeline.play();
-}
-
 window.Script35 = function()
 {
   // Get object to animate
@@ -674,6 +508,8 @@ distractors.forEach((obj, index) =>{
 });
 
 timeline.play();
+
+
 }
 
 window.Script36 = function()
@@ -2109,6 +1945,112 @@ timeline.play();
 
 window.Script63 = function()
 {
+  // Get object to animate
+const ansTextDisplay = object('5W2q5hbBc7b');
+const distractorBkgd = object('5VEwqCjqRDX');
+const distractor_1 = object('6T8pgVklcVw');
+const distractor_2 = object('6rkHq7peQmr');
+const distractor_3 = object('6A016E1ta24');
+const distractor_4 = object('6kCamB7PADE');
+const distBtn1 = object('5XB5UwVvzvC');
+const distBtn2 = object('6lBAjLf6rvg');
+const distBtn3 = object('5gsJ5Hbqvaa');
+const distBtn4 = object('6NeNI8GFVZn');
+
+// Put all distractor objects into an array
+let distractors = [];
+distractors[0] = distractorBkgd;
+distractors[1] = distractor_1;
+distractors[2] = distractor_2;
+distractors[3] = distractor_3;
+distractors[4] = distractor_4;
+distractors[5] = distBtn1;
+distractors[6] = distBtn2;
+distractors[7] = distBtn3;
+distractors[8] = distBtn4;
+
+// Move objects together to the center
+let timeline = gsap.timeline({pause:true});
+
+// Move answer display
+timeline.to(ansTextDisplay, {
+	duration: 0.25,
+	x: 330
+});
+
+// Bring in distractors from off-stage
+distractors.forEach((obj, index) =>{
+	if (index == 0) {
+		timeline.to(obj, {
+			duration: 0,
+			x: 680
+		});
+	} else {
+		timeline.to(obj, {
+			duration: 0,
+			x: 700
+		});
+	}
+});
+
+timeline.play();
+}
+
+window.Script64 = function()
+{
+  // Get object to animate
+const ansTextDisplay = object('5W2q5hbBc7b');
+const distractorBkgd = object('5VEwqCjqRDX');
+const distractor_1 = object('6T8pgVklcVw');
+const distractor_2 = object('6rkHq7peQmr');
+const distractor_3 = object('6A016E1ta24');
+const distractor_4 = object('6kCamB7PADE');
+const distBtn1 = object('5XB5UwVvzvC');
+const distBtn2 = object('6lBAjLf6rvg');
+const distBtn3 = object('5gsJ5Hbqvaa');
+const distBtn4 = object('6NeNI8GFVZn');
+
+// Put all distractor objects into an array
+let distractors = [];
+distractors[0] = distractorBkgd;
+distractors[1] = distractor_1;
+distractors[2] = distractor_2;
+distractors[3] = distractor_3;
+distractors[4] = distractor_4;
+distractors[5] = distBtn1;
+distractors[6] = distBtn2;
+distractors[7] = distBtn3;
+distractors[8] = distBtn4;
+
+// Move objects together to the center
+let timeline = gsap.timeline({pause:true});
+
+// Move answer display
+timeline.to(ansTextDisplay, {
+	duration: 0.25,
+	x: 330
+});
+
+// Bring in distractors from off-stage
+distractors.forEach((obj, index) =>{
+	if (index == 0) {
+		timeline.to(obj, {
+			duration: 0,
+			x: 680
+		});
+	} else {
+		timeline.to(obj, {
+			duration: 0,
+			x: 700
+		});
+	}
+});
+
+timeline.play();
+}
+
+window.Script65 = function()
+{
   // Animate continue button into place
 const continueBtn = object('6XrIYDMOF5g');
 // Get distractor text objects
@@ -2180,7 +2122,7 @@ if(userSelection.includes(correctSelection)) {
 }
 }
 
-window.Script64 = function()
+window.Script66 = function()
 {
   
 // Animate continue button into place
@@ -2254,7 +2196,7 @@ if(userSelection.includes(correctSelection)) {
 }
 }
 
-window.Script65 = function()
+window.Script67 = function()
 {
   // Animate continue button into place
 const continueBtn = object('6XrIYDMOF5g');
@@ -2327,7 +2269,7 @@ if(userSelection.includes(correctSelection)) {
 }
 }
 
-window.Script66 = function()
+window.Script68 = function()
 {
   // Animate continue button into place
 const continueBtn = object('6XrIYDMOF5g');
@@ -2365,6 +2307,7 @@ let dO = "";      //dynamically named distTextObj
 let distShp = ""; //distractor shape element
 let pathEl = "";  //SVG path element of distShp
 // If the user selection matches the correct selection
+console.log("User Selection: "+userSelection);
 if(userSelection.includes(correctSelection)) {
 	// Highlight answer as correct
 	distShp = document.querySelector('[data-acc-text="distText_1"]');
@@ -2400,7 +2343,7 @@ if(userSelection.includes(correctSelection)) {
 }
 }
 
-window.Script67 = function()
+window.Script69 = function()
 {
   // Answer text display
 const ansTextDisplay = object('5W2q5hbBc7b');
@@ -2456,7 +2399,6 @@ distractors.forEach((item, index) => {
 	if(index > 0 && index < 5){
 		// Highlight correct answer
 		dO = "distText_" + index;
-		console.log(dO);
 		distShp = document.querySelector('[data-acc-text="'+dO+'"]');
 		pathEl = distShp.querySelector("path");
 		pathEl.setAttribute("fill", "#000000");
@@ -2486,13 +2428,28 @@ continueBtn.y = 785;
 
 }
 
-window.Script68 = function()
+window.Script70 = function()
 {
-  var player = GetPlayer();
-player.SetVar("playFirstAnswer",true);
+  // If user has selected all but the last answer
+var player = GetPlayer();
+let counter = player.GetVar("numOfClicks");
+if(counter < 28){
+	counter++;
+	player.SetVar("numOfClicks", counter);
+} else if(counter == 28){
+	counter++;
+	player.SetVar("numOfClicks", counter);
+	// Change var value to trigger last question audio clip
+	player.SetVar("lastQuestion", true);
+} else if(counter == 29){
+	// Change var value to trigger end of game audio clip
+	// and show Exit and Restart buttons.
+	player.SetVar("endOfGame", true);
 }
 
-window.Script69 = function()
+}
+
+window.Script71 = function()
 {
   // Example Code
 // document.querySelectorAll("[data-acc-text='ObjectsAccessibilityName']")
@@ -2501,6 +2458,8 @@ window.Script69 = function()
 // Zoom in the categories group
 const categories = object('62MbhlS50HQ');
 const curtain = object('5cWuzdtVlA5');
+
+var player = GetPlayer();
 
 curtain.opacity = 0;
 
@@ -2524,7 +2483,7 @@ timeline.play();
 
 }
 
-window.Script70 = function()
+window.Script72 = function()
 {
   const categories = object('62MbhlS50HQ');
 
@@ -2540,7 +2499,7 @@ timeline.to(categories, {
 timeline.play();
 }
 
-window.Script71 = function()
+window.Script73 = function()
 {
   const categories = object('62MbhlS50HQ');
 
@@ -2556,7 +2515,7 @@ timeline.to(categories, {
 timeline.play();
 }
 
-window.Script72 = function()
+window.Script74 = function()
 {
   const categories = object('62MbhlS50HQ');
 
@@ -2572,7 +2531,7 @@ timeline.to(categories, {
 timeline.play();
 }
 
-window.Script73 = function()
+window.Script75 = function()
 {
   const categories = object('62MbhlS50HQ');
 
@@ -2588,7 +2547,7 @@ timeline.to(categories, {
 timeline.play();
 }
 
-window.Script74 = function()
+window.Script76 = function()
 {
   const categories = object('62MbhlS50HQ');
 
@@ -2604,7 +2563,7 @@ timeline.to(categories, {
 timeline.play();
 }
 
-window.Script75 = function()
+window.Script77 = function()
 {
   // Zoom in the categories group
 const categories = object('62MbhlS50HQ');
