@@ -1,7 +1,6 @@
 # cflanagan.github.io
 
 # <a href="https://cflanagan.github.io/Joepardy/story.html" target="_blank">Launch Joepardy!</a>
-# <a href="https://cflanagan.github.io/storylineWeatherApp/story.html" target="_blank">Launch Weather App</a>
 
 #### Joepardy is a demostration of my skill using Articulate Storyline 360. I started out creating Computer-Base Training as a Macromedia Authorware developer in the 1990's. I learned HTML/CSS/Javascript but found more work in Instructional Design as a Macromedia Flash developer. 
 
